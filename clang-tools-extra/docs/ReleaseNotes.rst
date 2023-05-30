@@ -162,6 +162,11 @@ New checks
   Finds historical use of ``unsigned`` to hold vregs and physregs and rewrites
   them to use ``Register``
 
+- New :doc:`misc-myinsert
+  <clang-tidy/checks/misc-myinsert>` check.
+
+  FIXME: add release notes.
+
 - New :doc:`objc-missing-hash
   <clang-tidy/checks/objc-missing-hash>` check.
 

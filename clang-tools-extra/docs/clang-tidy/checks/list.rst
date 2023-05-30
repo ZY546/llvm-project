@@ -186,6 +186,7 @@ Clang-Tidy Checks
    `llvm-twine-local <llvm-twine-local.html>`_, "Yes"
    `misc-definitions-in-headers <misc-definitions-in-headers.html>`_, "Yes"
    `misc-misplaced-const <misc-misplaced-const.html>`_,
+   `misc-myinsert <misc-myinsert.html>`_, "Yes"
    `misc-new-delete-overloads <misc-new-delete-overloads.html>`_,
    `misc-non-copyable-objects <misc-non-copyable-objects.html>`_,
    `misc-non-private-member-variables-in-classes <misc-non-private-member-variables-in-classes.html>`_,

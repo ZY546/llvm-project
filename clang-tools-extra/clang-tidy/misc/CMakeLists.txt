@@ -4,6 +4,7 @@ add_clang_library(clangTidyMiscModule
   DefinitionsInHeadersCheck.cpp
   MiscTidyModule.cpp
   MisplacedConstCheck.cpp
+  MyinsertCheck.cpp
   NewDeleteOverloadsCheck.cpp
   NonCopyableObjects.cpp
   NonPrivateMemberVariablesInClassesCheck.cpp
